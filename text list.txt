@@ -1,0 +1,5 @@
+strapi.io
+copy this npx create-strapi-app@latest 
+paste in cmd of backend file
+press y
+? What would you like to name your project? write . only so no folder will create
